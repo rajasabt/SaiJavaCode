@@ -1,4 +1,4 @@
-<h1> Hello Dear Students!! Welcome to DevOps Project-2!! </h1>
-<h2> By Mr. Sai from Saidemy!! </h2>
+<h1> Hello Dear Students!! Welcome to DevOps Project-1!! </h1>
+<h2> By Mr.raj from Rajdemy!! </h2>
 <h3> hello Raj <h3>
-<h3>Raja devops project <h3>
+<h3>Rajasab devops project1 <h3>
